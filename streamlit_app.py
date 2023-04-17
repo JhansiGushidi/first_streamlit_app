@@ -32,4 +32,3 @@ requirements.txn
 import  snowflake.connector
 
 
-
